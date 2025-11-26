@@ -1,7 +1,7 @@
 # ArcOS v1.1 — Cognitive Clone Operating System（日本語版）
 🧠 自然言語だけで「あなた自身の思考構造」を複製し、機械速度で実行するOS
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17675771.svg)](https://doi.org/10.5281/zenodo.17675771)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17713576.svg)](https://doi.org/10.5281/zenodo.17713576)
 
 **Concept by:** Masaya Ochiai  
 **Trademark:** “ArcOS”  
